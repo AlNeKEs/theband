@@ -486,6 +486,9 @@ background-color: black;
     #nav li{
         display: block;
     }
+    #nav li:first-child a{
+        display: inline-block;
+    }
     #header #mobile-menu{
         display: block;
         position: absolute;
